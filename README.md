@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/safouanehadji0698/AppWebDevOps/_apis/build/status/zoldikh.pipelines-dotnet-core-docker%20(2)?branchName=master)](https://dev.azure.com/safouanehadji0698/AppWebDevOps/_build/latest?definitionId=4&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
